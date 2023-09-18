@@ -1,0 +1,116 @@
+---
+object: card
+id: 7439a855-4041-4d14-8edf-6741a734e55d
+oracle_id: 5f2a3797-28aa-4c7a-ba2b-fd243a1747fd
+multiverse_ids:
+- 423829
+mtgo_id: 62897
+mtgo_foil_id: 62898
+tcgplayer_id: 126502
+cardmarket_id: 294922
+name: Lifecrafter's Bestiary
+lang: en
+released_at: '2017-01-20'
+uri: https://api.scryfall.com/cards/7439a855-4041-4d14-8edf-6741a734e55d
+scryfall_uri: https://scryfall.com/card/aer/162/lifecrafters-bestiary?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/4/7439a855-4041-4d14-8edf-6741a734e55d.jpg?1576382327
+  normal: https://cards.scryfall.io/normal/front/7/4/7439a855-4041-4d14-8edf-6741a734e55d.jpg?1576382327
+  large: https://cards.scryfall.io/large/front/7/4/7439a855-4041-4d14-8edf-6741a734e55d.jpg?1576382327
+  png: https://cards.scryfall.io/png/front/7/4/7439a855-4041-4d14-8edf-6741a734e55d.png?1576382327
+  art_crop: https://cards.scryfall.io/art_crop/front/7/4/7439a855-4041-4d14-8edf-6741a734e55d.jpg?1576382327
+  border_crop: https://cards.scryfall.io/border_crop/front/7/4/7439a855-4041-4d14-8edf-6741a734e55d.jpg?1576382327
+mana_cost: "{3}"
+cmc: 3.0
+type_line: Artifact
+oracle_text: |-
+  At the beginning of your upkeep, scry 1.
+  Whenever you cast a creature spell, you may pay {G}. If you do, draw a card.
+colors: []
+color_identity:
+- G
+keywords:
+- Scry
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: a4a0db50-8826-4e73-833c-3fd934375f96
+set: aer
+set_name: Aether Revolt
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/a4a0db50-8826-4e73-833c-3fd934375f96
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aaer&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/aer?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/7439a855-4041-4d14-8edf-6741a734e55d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5f2a3797-28aa-4c7a-ba2b-fd243a1747fd&unique=prints
+collector_number: '162'
+digital: false
+rarity: rare
+flavor_text: |-
+  "Inspiration is found by looking outward."
+  —Oviya Pashiri, sage lifecrafter
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Izzy
+artist_ids:
+- 2c3d2473-ff5d-4309-8194-e0b2def2ab65
+illustration_id: fa37d232-f2e4-46a3-a794-f1f2eff087bd
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 591
+penny_rank: 9203
+prices:
+  usd: '1.28'
+  usd_foil: '2.71'
+  usd_etched: 
+  eur: '0.78'
+  eur_foil: '3.00'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423829
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Lifecrafter%27s+Bestiary&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Lifecrafter%27s+Bestiary&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Lifecrafter%27s+Bestiary
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/126502?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lifecrafter%27s+Bestiary&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/62897?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

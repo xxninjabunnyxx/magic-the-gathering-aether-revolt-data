@@ -1,0 +1,114 @@
+---
+object: card
+id: 19754fe4-2f61-42a3-afa2-3a6a8257b81b
+oracle_id: '08afc0d7-192f-4ab6-b6a0-c4265cf5e225'
+multiverse_ids:
+- 423715
+mtgo_id: 62637
+mtgo_foil_id: 62638
+tcgplayer_id: 125849
+cardmarket_id: 294562
+name: Trophy Mage
+lang: en
+released_at: '2017-01-20'
+uri: https://api.scryfall.com/cards/19754fe4-2f61-42a3-afa2-3a6a8257b81b
+scryfall_uri: https://scryfall.com/card/aer/48/trophy-mage?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/9/19754fe4-2f61-42a3-afa2-3a6a8257b81b.jpg?1576381584
+  normal: https://cards.scryfall.io/normal/front/1/9/19754fe4-2f61-42a3-afa2-3a6a8257b81b.jpg?1576381584
+  large: https://cards.scryfall.io/large/front/1/9/19754fe4-2f61-42a3-afa2-3a6a8257b81b.jpg?1576381584
+  png: https://cards.scryfall.io/png/front/1/9/19754fe4-2f61-42a3-afa2-3a6a8257b81b.png?1576381584
+  art_crop: https://cards.scryfall.io/art_crop/front/1/9/19754fe4-2f61-42a3-afa2-3a6a8257b81b.jpg?1576381584
+  border_crop: https://cards.scryfall.io/border_crop/front/1/9/19754fe4-2f61-42a3-afa2-3a6a8257b81b.jpg?1576381584
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Creature — Human Wizard
+oracle_text: When Trophy Mage enters the battlefield, you may search your library
+  for an artifact card with mana value 3, reveal it, put it into your hand, then shuffle.
+power: '2'
+toughness: '2'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: a4a0db50-8826-4e73-833c-3fd934375f96
+set: aer
+set_name: Aether Revolt
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/a4a0db50-8826-4e73-833c-3fd934375f96
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aaer&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/aer?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/19754fe4-2f61-42a3-afa2-3a6a8257b81b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A08afc0d7-192f-4ab6-b6a0-c4265cf5e225&unique=prints
+collector_number: '48'
+digital: false
+rarity: uncommon
+flavor_text: '"The tools of the past will help us forge the future."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anna Steinbauer
+artist_ids:
+- 3516496c-c279-4b56-8239-720683d03ae0
+illustration_id: 78b6e582-d723-4903-adbd-cf40dbb4d561
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1418
+penny_rank: 1309
+prices:
+  usd: '0.36'
+  usd_foil: '3.49'
+  usd_etched: 
+  eur: '0.14'
+  eur_foil: '2.78'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423715
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Trophy+Mage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Trophy+Mage&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Trophy+Mage
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/125849?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Trophy+Mage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/62637?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
